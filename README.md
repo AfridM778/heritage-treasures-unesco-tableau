@@ -1,10 +1,11 @@
-<<<<<<< HEAD
-# heritage-treasures-unesco-tableau
-Interactive UNESCO World Heritage data exploration using Flask and Tableau Public.
-=======
 # Heritage Treasures: An In-Depth Analysis of UNESCO World Heritage Sites in Tableau
 
 An interactive Tableau dashboard analyzing UNESCO World Heritage Sites through geographical distribution, site categories, countries, cultural significance, and preservation insights using data visualization.
+
+## 🚀 Live Web Application
+
+- **Live URL**: https://heritage-treasures-unesco-tableau.onrender.com/
+- **GitHub Repository**: https://github.com/AfridM778/heritage-treasures-unesco-tableau
 
 ## 📌 Project Overview
 
