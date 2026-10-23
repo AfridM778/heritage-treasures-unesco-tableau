@@ -1,11 +1,14 @@
 # Heritage Treasures: An In-Depth Analysis of UNESCO World Heritage Sites in Tableau
 
+[![Live on Render](https://img.shields.io/badge/Render-Live%20Demo-brightgreen?logo=render&logoColor=white&style=for-the-badge)](https://heritage-treasures-unesco-tableau.onrender.com/)
+[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-Interactive%20Dashboards-blue?logo=tableau&logoColor=white&style=for-the-badge)](https://public.tableau.com/app/profile/molla.afrid/vizzes)
+[![Python / Flask](https://img.shields.io/badge/Python-Flask%203.1-black?logo=flask&logoColor=white&style=for-the-badge)](https://heritage-treasures-unesco-tableau.onrender.com/)
+
+> 🌐 **Live Web Application**: **[https://heritage-treasures-unesco-tableau.onrender.com/](https://heritage-treasures-unesco-tableau.onrender.com/)**  
+> 📊 **Live Tableau Public Profile**: **[https://public.tableau.com/app/profile/molla.afrid/vizzes](https://public.tableau.com/app/profile/molla.afrid/vizzes)**  
+> 📁 **GitHub Repository**: **[https://github.com/AfridM778/heritage-treasures-unesco-tableau](https://github.com/AfridM778/heritage-treasures-unesco-tableau)**
+
 An interactive Tableau dashboard analyzing UNESCO World Heritage Sites through geographical distribution, site categories, countries, cultural significance, and preservation insights using data visualization.
-
-## 🚀 Live Web Application
-
-- **Live URL**: https://heritage-treasures-unesco-tableau.onrender.com/
-- **GitHub Repository**: https://github.com/AfridM778/heritage-treasures-unesco-tableau
 
 ## 📌 Project Overview
 
