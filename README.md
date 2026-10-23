@@ -342,8 +342,15 @@ if __name__ == "__main__":
 
 ## 🚀 Deployment on Render
 
-This project is configured for 1-click or automated deployment on [Render](https://render.com):
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/AfridM778/heritage-treasures-unesco-tableau)
 
+This project is pre-configured with `render.yaml` for 1-click automated deployment on [Render](https://render.com):
+
+### Option 1: 1-Click Deploy
+Click the **Deploy to Render** button above, or open:
+👉 **https://render.com/deploy?repo=https://github.com/AfridM778/heritage-treasures-unesco-tableau**
+
+### Option 2: Manual Web Service
 1. Log in to [Render Dashboard](https://dashboard.render.com).
 2. Click **New +** &rarr; **Web Service**.
 3. Connect your GitHub repository: `https://github.com/AfridM778/heritage-treasures-unesco-tableau`.
