@@ -339,4 +339,17 @@ if __name__ == "__main__":
 - Molla Afrid - Member
 - Anuradha Malleswarapu - Member
 - Madduluri Sushma Sree - Member
->>>>>>> c8d895e (Initial commit: UNESCO World Heritage Sites Tableau Analysis with Flask web application)
+
+## 🚀 Deployment on Render
+
+This project is configured for 1-click or automated deployment on [Render](https://render.com):
+
+1. Log in to [Render Dashboard](https://dashboard.render.com).
+2. Click **New +** &rarr; **Web Service**.
+3. Connect your GitHub repository: `https://github.com/AfridM778/heritage-treasures-unesco-tableau`.
+4. Configure the settings (or let `render.yaml` auto-configure):
+   - **Environment**: `Python 3`
+   - **Build Command**: `pip install -r requirements.txt`
+   - **Start Command**: `gunicorn app:app`
+   - **Health Check Path**: `/health`
+5. Click **Create Web Service**. Render will build and deploy the live site automatically with HTTPS!
